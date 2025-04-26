@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+yfinance
+scikit-learn
+tensorflow
+torch
+transformers
+beautifulsoup4
+lxml
+requests
+backtrader
+tqdm
+plotly
+nbformat
